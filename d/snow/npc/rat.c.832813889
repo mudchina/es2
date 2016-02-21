@@ -1,0 +1,37 @@
+// fly.c
+
+inherit NPC;
+
+void create()
+{
+        set_name("²ÔÓ¬", ({ "fly" }) );
+        set("race", "Ò°ÊŞ");
+        set("age", 1);
+        set("long", "Ò»Ö»ÂÌÍ·½ğ³áµÄ´ó²ÔÓ¬¡£\n");
+
+        set("limbs", ({ "Í·²¿", "ÉíÌå", "³á°ò" }) );
+        set("verbs", ({ "bite" }) );
+
+        set_skill("dodge", 100);
+
+        setup();
+}
+w
+:w
+s
+q
+:q
+Q
+
+
+
+ı
+q
+
+ı
+:q
+:w
+ıquit
+daskfnlksd
+
+ykljhja

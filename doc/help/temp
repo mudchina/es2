@@ -1,0 +1,26 @@
+□ 巫師指令
+ 
+[檔案處理]
+ 
+cd  more  ls  rm  cat  edit  mv  rmdir  cp  mkdir  tail
+ 
+[物件處理]
+ 
+call  dest  localcmds  update  clone ilist
+ 
+[查詢用指令]
+ 
+config  mudlist  cost  whoami  ff  info  qload  mem  status  where
+pwd  ulist
+ 
+[系統管理]
+ 
+dump  profile  purge  shutdown  callouts  chinese  cleanup  possess
+rehash  reclaim  reboot  promote  wizlock  edemote  snoop
+ 
+[其他]
+ 
+goto  halt  summon  smash
+ 
+□ 巫師指令依權限不同而有所不同。
+(Wed  09-20-95)
